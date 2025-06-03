@@ -2,7 +2,7 @@
 
 این پروژه نمونه‌ای ساده از یک اپلیکیشن Flask است که برای تمرین DevOps با Git، CI/CD و Docker ساخته شده.
 
-## اجرا روی سیستم محلی
+## LOCAL
 
 ```bash
 docker build -t flask-devops .
